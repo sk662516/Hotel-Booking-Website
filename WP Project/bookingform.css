@@ -1,0 +1,48 @@
+.main{
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: #e39c2b;
+  padding: 20px;
+}
+#lastname{
+  padding-left: 114px;
+}
+.required{
+  color: red;
+}
+.line{
+  margin-bottom: 10px;
+  background-color: red;
+}
+td{
+  margin: 0px;
+  padding-right: 20px;
+}
+.l1{
+  height: 20px;
+}
+h1{
+  text-align: center;
+}
+.hrs{
+  padding-left: 150px;
+}
+.min{
+  padding-left: 25px;
+}
+#total,#submit{
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 2px solid red;
+  border-radius: 10px;
+  background-color: white;
+}
+input{
+  border-radius: 10px;
+  border: 2px solid green;
+}
